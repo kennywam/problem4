@@ -1,6 +1,7 @@
 # problem4
 
-##Boolean Logic Interpreter
+#Boolean Logic Interpreter
+
 A Boolean logic interpreter written in JavaScript that can evaluate simple expressions. The interpreter supports the following operators:
 
 ∧ (AND)
@@ -56,6 +57,6 @@ Y: T
 T
 
 node boolean-logic-interpreter.js <expression>
-##Contributing
+#Contributing
 
   If you find a bug or have an idea for a new feature, please open an issue or create a pull request.
